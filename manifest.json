@@ -1,0 +1,14 @@
+{
+  "name": "Productivity",
+  "version": "0.1",
+  "manifest_version": 2,
+  "description": "Send data to Productivity",
+  "background": {
+    "scripts": ["main.js"],
+    "persistent": false
+  },
+  "permissions": [
+    "tabs",
+    "http://127.0.0.1/productivity"
+  ]
+}
