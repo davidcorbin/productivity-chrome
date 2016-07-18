@@ -1,6 +1,6 @@
 {
   "name": "Productivity",
-  "version": "0.1",
+  "version": "0.2",
   "manifest_version": 2,
   "description": "Send data to Productivity",
   "background": {
@@ -10,5 +10,11 @@
   "permissions": [
     "tabs",
     "http://127.0.0.1/productivity"
-  ]
+  ],
+  "icons": {
+    "16": "icons/Productivity-icon-16.png",
+    "32": "icons/Productivity-icon-32.png",
+    "48": "icons/Productivity-icon-48.png",
+    "128": "icons/Productivity-icon-128.png"
+  }
 }
