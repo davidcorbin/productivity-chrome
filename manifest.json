@@ -16,5 +16,8 @@
     "32": "icons/Productivity-icon-32.png",
     "48": "icons/Productivity-icon-48.png",
     "128": "icons/Productivity-icon-128.png"
+  },
+  "browser_action": {
+    "default_icon": "icons/Productivity-icon-32.png"
   }
 }
